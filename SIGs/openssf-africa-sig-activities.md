@@ -435,3 +435,4 @@ Additional links, dates, participant figures, and impact measures should be adde
 ---
 
 *This document was prepared as a contribution to [OpenSSF wg-bear Issue #28](https://github.com/ossf/wg-bear/issues/28). For questions or corrections, please comment on the issue or contact the BEAR Working Group via the [#wg-bear Slack channel](https://app.slack.com/client/T019QHUBYQ3/C068TF7AH0U).*
+
