@@ -39,7 +39,11 @@ Every 2 weeks, Tuesday 11am EST. The meeting invite is available on the [public 
 
 #### OpenSSF Africa
 
-Coming soon!
+The OpenSSF Africa SIG promotes open-source software security
+through community engagement, education, collaboration, and
+contributor development across African communities.
+
+Read more: [OpenSSF Africa SIG Activities](SIGs/openssf-africa-sig-activities.md)
 
 ### Roadmap
 
